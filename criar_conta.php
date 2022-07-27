@@ -97,7 +97,7 @@
             <label for="login">Login:</label>
             <input type="text" id="login" name="login"><br>
             <label for="senha">Senha:</label>
-            <input type="text" id="senha" name="senha"><br>
+            <input type="password" id="senha" name="senha"><br>
             <button type="submit" name="enviar">Enviar</button>
         </form>
     </section>

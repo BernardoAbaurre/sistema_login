@@ -112,8 +112,8 @@
         <label for="login">Login: </label>
         <input type="text" name="login" id="login"><br>
         <label for="senha">Senha: </label>
-        <input type="text" name="senha" id="senha"><br>
-        <button type="submit" name="enviar">Enviar</button><br>
+        <input type="password" name="senha" id="senha"><br>
+        <button type="submit" name="enviar">Entrar</button><br>
         <a href="criar_conta.php">Criar conta</a>
         </form>
     </section>
