@@ -67,6 +67,7 @@
         input
         {
             margin-bottom: 10px;
+            
         }
         section
         {
